@@ -41,15 +41,15 @@ body {
 .value__one--line {
   height: 24px;
   width: 24px;
-  margin-top: 12px;
-  margin-left: -2px;
+  margin-top: 13px;
+  margin-left: -1px;
 }
 
 .value__one--trash {
-  margin-left: 131px;
+  margin-left: 132px;
   width: 24px;
   height: 24px;
-  margin-top: 11px;
+  margin-top: 12px;
 }
 
 .value__one--hr {
@@ -70,14 +70,14 @@ body {
   height: 24px;
   width: 24px;
   margin-top: 10px;
-  margin-left: -2px;
+  margin-left: -1px;
 }
 
 .value__two--trash {
-  margin-left: 131px;
+  margin-left: 132px;
   width: 24px;
   height: 24px;
-  margin-top: 10px;
+  margin-top: 11px;
 }
 
 .value__two--hr {
@@ -99,14 +99,14 @@ body {
   height: 24px;
   width: 24px;
   margin-top: 12px;
-  margin-left: -2px;
+  margin-left: -1px;
 }
 
 .value__three--trash {
-  margin-left: 131px;
+  margin-left: 132px;
   width: 24px;
   height: 24px;
-  margin-top: 14px;
+  margin-top: 12px;
 }
 
 .value__three--hr {
