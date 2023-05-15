@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  height: 56px;
+  background-color: rgba(167, 124, 93, 1);
+  align-items: center;
+}
+
+.header--burger {
+  margin-left: 16px;
+}
+
+.header--title {
+  margin-left: 16px;
+  letter-spacing: 0.5px;
+}
+
+.header--plus {
+  margin-left: 267px;
+}
